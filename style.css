@@ -1,0 +1,145 @@
+a{
+    text-decoration: none;
+}
+
+.container-fluid{
+    padding: 0;
+    min-height: auto;
+    margin: 0;
+
+}
+
+.nav{
+    height: 65px;
+    background-color: white;
+    display: inline-block;
+}
+.logo{
+    max-height: 50px;
+    padding-left: 2em;
+    
+}
+.nav-item{
+    font-weight: bold;
+    padding-left: 1.5em;
+}
+.main{
+    height: 90vh;
+    background-color:#eef4fe;
+    padding: 10em;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.logo-main{
+    max-height: 15vh;
+    min-width: 5vw;
+}
+.head.text{
+    font-size:190px;
+    text-align: center;
+}
+
+.img{
+    height: 60vh;
+   display: flex;
+   background-color:#eef4fe;
+    justify-content: center;
+}
+
+.small-text{
+    font-size: 11px;
+}
+.content{
+    background-color: white;
+    height: 70vh;
+ 
+}
+
+.imgs img{
+    min-height: 1vh;
+    max-height: 60vh;
+}
+.text-top-card{
+    height: 20vh;
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.card-area {
+    max-height: 70vh;
+   text-align:start;
+
+}
+.card-log{
+    height: 45px;
+}
+.mid-small-text{
+    font-size: 13px;
+}
+.last-img{
+    height: 120vh;
+    background-image: url(.//images/Chrome-background-img.jpg);
+    background-size:  240vh ;
+    background-repeat: no-repeat;
+    align-items: center;
+    color: white;
+   padding-left: 20vh;
+
+}
+.big-text{
+    position: relative;
+    top: 50vh;
+}
+
+.footer{
+    background-color: aqua;
+    height: 90vh;
+    padding: 0px 5em;
+  
+}
+.follow{
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(92, 90, 90);
+}
+.one,.two,.three,.four{
+    padding: 10px;
+}
+.lists{
+  height: 60vh;
+  border-bottom: 1px solid rgb(92, 90, 90);
+   text-align: start;
+
+}
+.li-box{
+    padding-top: 3em;
+
+}
+.li-box a{
+    color: black;
+}
+.follow a{
+    color: black;
+}
+.foot a{
+    color: gray;
+
+}
+.lists h6{
+    line-height: 2em;
+}
+.foot{
+    background-color: blueviolet;
+    height: 15vh;
+}
+.foot--1{
+   text-align: center;
+    
+}
+.li-box i{
+     font-size: 13px;
+}
