@@ -29,7 +29,7 @@ a{
     padding-left: 1.5em;
 }
 .main{
-    height: 90vh;
+   
     width: 100%;
     background-color:#eef4fe;
     padding: 10em;
@@ -58,14 +58,11 @@ a{
 }
 .content{
     background-color: white;
-    height: 70vh;
- 
+    padding: 3rem;
+  
 }
 
-.imgs img{
-    min-height: 1vh;
-    max-height: 60vh;
-}
+
 .text-top-card{
     height: 20vh;
     text-align: center;
@@ -73,6 +70,8 @@ a{
 .row{
     display: flex;
     justify-content: center;
+  
+   
 }
 .card-area {
     max-height: 70vh;
@@ -92,12 +91,16 @@ a{
     background-repeat: no-repeat;
     align-items: center;
     color: white;
-   padding-left: 20vh;
+   padding-left: 4rem;
 
 }
 .big-text{
     position: relative;
     top: 50vh;
+}
+.btn-last{
+    position: relative;
+    top: 25rem;
 }
 
 .footer{
@@ -117,7 +120,6 @@ a{
 }
 .lists{
   height: 60vh;
-  border-bottom: 1px solid rgb(92, 90, 90);
    text-align: start;
 
 }
